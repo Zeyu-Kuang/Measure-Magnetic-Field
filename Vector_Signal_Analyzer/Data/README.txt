@@ -1,0 +1,1 @@
+sensitivity.txt records PSD (dBm/Hz) of 50 omus resistence for different sensitivities.
